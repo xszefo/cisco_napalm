@@ -1,0 +1,14 @@
+---
+loopbacks:
+   - name: loopback20
+     description: LOOPBACK20
+     ip: 10.20.20.20
+     mask: 255.255.255.255
+   - name: loopback30
+     description: LOOPBACK30
+     ip: 10.30.30.30
+     mask: 255.255.255.255
+   - name: loopback40
+     description: LOOPBACK40
+     ip: 10.40.40.40
+     mask: 255.255.255.255
