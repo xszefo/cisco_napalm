@@ -31,6 +31,7 @@ try:
 		device.commit_config()
 	else:
 		print('\nNo Changes Required Closing...')
+                print('\nGIT diff test')
 		device.discard_config()
 finally:
 	device.close()
